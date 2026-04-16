@@ -42,7 +42,7 @@ pip install python-telegram-bot psycopg2-binary requests pillow qrcode[pil]
 ## Prerequisites
 
 1. **A BharatPe merchant account** — you need a Merchant ID, API token, and
-   session cookie. See [PAYMENT_FLOW.md](PAYMENT_FLOW.md#bharatpe-api-reference)
+   session cookie. See [PAYMENT_FLOW.md](PAYMENT_FLOW.md#7-bharatpe-api-reference)
    for how to extract these from browser DevTools.
 
 2. **A PostgreSQL database** — the plugin creates its own tables on first run.

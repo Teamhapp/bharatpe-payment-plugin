@@ -2,7 +2,7 @@
 Minimal bot example — bharatpe-payment-plugin
 ==============================================
 
-Copy this file into your project, fill in the five environment variables
+Copy this file into your project, fill in the six required environment variables
 below, and run it.  The bot will accept UPI payments via /pay and give
 admins a full dashboard via /admin.
 

@@ -366,8 +366,8 @@ Bot validates against live API
   API → ok                           API → expired / unknown
   Credentials applied in memory      Credentials applied in memory only
   Credentials saved to DB            NOT saved (bad creds won't survive
-  Alert flag reset                   a restart)
-  ✅ "Credentials updated"           ⚠️ "Check values / retry when back"
+  ✅ "Credentials updated"           a restart)
+                                     ⚠️ "Check values / retry when back"
 ```
 
 ### Renewal outcome table

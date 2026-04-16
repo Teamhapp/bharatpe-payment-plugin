@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+pip-wheel-metadata/
+*.whl
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# Secrets — NEVER commit these
+.env.local
+secrets.json
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Replit
+.replit
+replit.nix
+.upm/
+.cache/
+.local/
+
+# OS
+.DS_Store
+Thumbs.db

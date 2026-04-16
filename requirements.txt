@@ -1,0 +1,13 @@
+python-telegram-bot>=20.0
+requests>=2.28.0
+qrcode>=7.4
+Pillow>=9.0
+psycopg2-binary>=2.9.0
+python-dotenv>=1.0.0
+Pillow
+psycopg2-binary
+python-telegram-bot
+python-dotenv
+qrcode
+requests
+telegram
